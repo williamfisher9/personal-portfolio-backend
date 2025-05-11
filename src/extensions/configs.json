@@ -6,6 +6,6 @@
   "MAIL_PORT": 465,
   "MAIL_USE_TLS": false,
   "MAIL_USE_SSL": true,
-  "SQLALCHEMY_DATABASE_URI": "sqlite:////home/ubuntu/app_files/app_db_main_v2.db",
+  "SQLALCHEMY_DATABASE_URI": "sqlite:////home/ubuntu/app_files/app_db_main_v3.db",
   "LOGS_DIRECTORY": "/home/ubuntu/app_files/"
 }
