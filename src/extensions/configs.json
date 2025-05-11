@@ -1,0 +1,11 @@
+{
+  "SECRET_KEY": "ashkjfh21hekh12h4jk21h3jk21h3jh213wqsdacyizxo",
+  "SQLALCHEMY_TRACK_MODIFICATIONS": false,
+  "DEBUG": true,
+  "MAIL_SERVER": "smtp.gmail.com",
+  "MAIL_PORT": 465,
+  "MAIL_USE_TLS": false,
+  "MAIL_USE_SSL": true,
+  "SQLALCHEMY_DATABASE_URI": "sqlite:////home/ubuntu/app_files/app_db_main_v2.db",
+  "LOGS_DIRECTORY": "/home/ubuntu/app_files/"
+}
